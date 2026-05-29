@@ -1,11 +1,11 @@
-# Manutenção de Software e Engenharia Reversa[cite: 2]
+# Manutenção de Software e Engenharia Reversa
 
-Este repositório contém a entrega da atividade prática da disciplina de Engenharia de Software II[cite: 1]. A proposta do projeto é simular uma situação altamente comum no mercado de trabalho: atuar como mantenedor de um sistema legado, onde é necessário compreender regras de negócio implícitas, diagnosticar defeitos e aplicar correções seguras validadas por testes.
+Este repositório contém a entrega da atividade prática da disciplina de Engenharia de Software II. A proposta do projeto é simular uma situação altamente comum no mercado de trabalho: atuar como mantenedor de um sistema legado, onde é necessário compreender regras de negócio implícitas, diagnosticar defeitos e aplicar correções seguras validadas por testes.
 
 ## Contexto Acadêmico
 * **Curso:** Bacharelado em Ciência da Computação — IFPA Campus Tucuruí
 * **Professor:** Prof. Douglas Bechara
-* **Atividade:** Manutenção de Software e Engenharia Reversa[cite: 2]
+* **Atividade:** Manutenção de Software e Engenharia Reversa.
 
 ## O Desafio (Chamado 1)
 Nesta simulação, atuei na resolução do **Chamado 1 — Correção da regra de aprovação**.
